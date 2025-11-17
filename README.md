@@ -55,6 +55,9 @@ You can check out the Next.js GitHub repository - your feedback and contribution
 ## Deploy on Vercel
 ```bash
 git clone https://github.com/abrahamdominic/daily-food-recipe.git
+```
+
+```bash
 cd daily-food-recipe
 ```
 
