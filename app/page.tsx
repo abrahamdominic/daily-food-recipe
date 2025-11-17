@@ -23,11 +23,11 @@ export default function Home() {
     <div className="flex min-h-screen flex-col items-center justify-center bg-gray-100 p-8">
       <main className="w-full max-w-2xl rounded-lg bg-white p-8 shadow-md">
         <h1 className="mb-4 text-center text-3xl font-bold text-gray-800">
-          Farcaster Food Recipe Miniapp
+          Food Recipe Miniapp
         </h1>
         <p className="mb-6 text-center text-lg text-gray-600">
           This is a Farcaster Dapp. To use it, share this page's
-          URL on a Farcaster client like Recaster.
+          on different channels.
         </p>
         <div className="flex justify-center">
           <a
